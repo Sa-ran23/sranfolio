@@ -2,7 +2,7 @@
 
     /* ========== VIEW MORE — Projects ========== */
     (function () {
-      const BATCH = 2; // how many cards to reveal per click
+      const BATCH = 3; // how many cards to reveal per click
       const btn = document.getElementById('btn-view-more');
       const wrap = document.getElementById('view-more-wrap');
 
